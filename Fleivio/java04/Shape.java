@@ -1,6 +1,6 @@
 package java04;
 
-class Shape{
+public class Shape{
     protected String name;
     protected int dimension;
 

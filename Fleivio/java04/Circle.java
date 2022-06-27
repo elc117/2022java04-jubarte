@@ -1,6 +1,6 @@
 package java04;
 
-class Circle extends Shape{
+public class Circle extends Shape{
     private Double radius;
 
     public Circle(Double r){
