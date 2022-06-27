@@ -1,3 +1,5 @@
+package jubarte;
+
 public class LivingBeing {
     protected final String scientificName;
     protected final String dnaSequence;
